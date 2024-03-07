@@ -1,4 +1,4 @@
-# Projeto AWS HCL
+# Projeto AWS HCL [![Terraform](https://github.com/Tech-Preta/aws-hcl/actions/workflows/terraform.yml/badge.svg)](https://github.com/Tech-Preta/aws-hcl/actions/workflows/terraform.yml)
 
 Este projeto contém a configuração Terraform para provisionar recursos na AWS usando HCL (HashiCorp Configuration Language).
 
