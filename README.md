@@ -4,14 +4,12 @@ Este projeto contém a configuração Terraform para provisionar recursos na AWS
 
 ## Diretórios de Recursos Terraform
 
-- [alb](alb/README.md): Contém a configuração para o Application Load Balancer (ALB) na AWS.
-- [control-tower](control-tower/README.md): Configurações relacionadas ao AWS Control Tower.
-- [dynamodb](dynamodb/README.md): Configuração para provisionar tabelas DynamoDB na AWS.
-- [ec2](ec2/README.md): Contém a configuração para instâncias EC2 na AWS.
-- [eksctl](eksctl/README.md): Configurações relacionadas ao Amazon EKS usando eksctl.
-- [s3](s3/README.md): Configuração para buckets S3 na AWS.
-
-Cada diretório contém sua própria documentação específica com detalhes sobre a configuração e como usar os recursos provisionados.
+- [alb](https://github.com/Tech-Preta/aws-hcl/tree/main/alb): Contém a configuração para o Application Load Balancer (ALB) na AWS.
+- [control-tower](https://github.com/Tech-Preta/aws-hcl/tree/main/control-tower): Configurações relacionadas ao AWS Control Tower.
+- [dynamodb](https://github.com/Tech-Preta/aws-hcl/tree/main/dynamodb): Configuração para provisionar tabelas DynamoDB na AWS.
+- [ec2](https://github.com/Tech-Preta/aws-hcl/tree/main/ec2): Contém a configuração para instâncias EC2 na AWS.
+- [eksctl](https://github.com/Tech-Preta/aws-hcl/tree/main/eksctl): Configurações relacionadas ao Amazon EKS usando eksctl.
+- [s3](https://github.com/Tech-Preta/aws-hcl/tree/main/s3): Configuração para buckets S3 na AWS.
 
 ## Como Usar
 
